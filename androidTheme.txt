@@ -1,0 +1,2 @@
+https://plugins.jetbrains.com/plugin/20558-gruvbox--theme
+GruvBox Dark Hard
