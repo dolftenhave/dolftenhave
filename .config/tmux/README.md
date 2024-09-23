@@ -1,4 +1,7 @@
 # Instilation guide
+
+Install the tmux plugin manager (tpm)
+
 1. Copy the tmux.conf file to your tmux configuraion folder. We will use __~/.config/tmux/__
 2. Let tmux know where to find the _tmux.conf_ file. ```tmux source ~/.config/tmux/tmux.conf```
 3. Install the plugins with `<prefix> + I`.
