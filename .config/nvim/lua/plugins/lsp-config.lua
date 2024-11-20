@@ -15,6 +15,7 @@ return {
 					"jdtls", -- java
 					--					"bashls", -- bash
 					"clangd", -- c++
+					"ts_ls",
 					-- find more on the mason github page
 				},
 			})
@@ -29,6 +30,7 @@ return {
 			lspconfig.jdtls.setup({ capabilities = capabilities })
 			--			lspconfig.bashls.setup({})
 			lspconfig.clangd.setup({ capabilities = capabilities })
+			lspconfig.ts_ls.setup({ capabilities = capabilities })
 
 			--Custom binds
 			vim.keymap.set("n", "K", vim.lsp.buf.hover, {})
