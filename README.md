@@ -2,5 +2,20 @@
 
 #### Computer Science student at the University of Waikato passionate about backend systems, performance, and low-level programming.
 
+## 🧰 Languages and Tools
 
+
+## 📈 Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dolftenhave&show_icons=true&theme=gruvbox"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dolftenhave&show_icons=true&theme=gruvbox_light"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dolftenhave&show_icons=true&theme=gruvbox" />
+</picture>
 
