@@ -4,6 +4,7 @@
 
 ## 🧰 Languages and Tools
 
+get devions from gere [https://devicon.dev/](https://devicon.dev/)
 
 ## 📈 Stats
 
