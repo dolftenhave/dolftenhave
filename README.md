@@ -4,7 +4,8 @@
 
 ## 🧰 Languages and Tools
 
-get devions from gere [https://devicon.dev/](https://devicon.dev/)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32"/>
 
 ## 📈 Stats
 
@@ -20,3 +21,8 @@ get devions from gere [https://devicon.dev/](https://devicon.dev/)
   <img src="https://github-readme-stats.vercel.app/api?username=dolftenhave&show_icons=true&theme=gruvbox" />
 </picture>
 
+## 🎲 Other things
+
+- I **LOVE** boardgames!
+- I grow my own veggies :)
+- [My dotfiles](https://github.com/dolftenhave/dotfiles)
